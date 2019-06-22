@@ -1,0 +1,29 @@
+{
+  "name": "omdb-api-rest-sql",
+  "version": "1.0.0",
+  "description": "omdb-api-rest-sql",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.19.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minicatsCB/omdb-api-rest-sql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minicatsCB/omdb-api-rest-sql/issues"
+  },
+  "homepage": "https://github.com/minicatsCB/omdb-api-rest-sql#readme"
+}
